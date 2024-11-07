@@ -1,7 +1,5 @@
 # Unitrust DID Method Specification
 
-[TOC]
-
 ## About
 
 `UniTrust DID` fully adheres to the latest [DID Specification v1.0 from W3C](https://www.w3.org/TR/did-core/). It functions as the identity data carrier within the governable digital identity system and provides the foundational architecture for the digital trust service platform.
